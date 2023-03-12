@@ -10,4 +10,4 @@ Basic crud application - Add tasks, List the added tasks, Filter tasks, delete t
 Simple Loan Calculator that help the clients to know about loan details such as period required to pay the loan back with interest and loan amount.
 
 3. githubFinder <br />
-Search GitHub users by Username and to know their profile information, including the a list of their repositories and links, number of followers, location, etc.
+Search GitHub users by Username and to know their profile information, including the a list top repositories of the users, links, number of followers, location, etc.
